@@ -1,0 +1,72 @@
+Game stuff
+
+Main concept: Feeding a black hole to save the earth 
+           
+    player controls little spaceships that fly around a solar system
+    can tractor beam chunks of space rock and guide them back to the black hole
+    
+    Start of game: 
+        - Player starts out with one spaceship 
+        - 
+
+    Main mechanics:
+        - Planet "factory" that constructs new units 
+        - Harvest spaceship tasks 
+            - harvest asteroids
+            - bring packets of anti-matter to destroy blackhole
+            - 
+        
+        - Start game: 
+            - begin with one spaceship and one anti-matter factory 
+            - some resources 
+
+        - Fighter ship tasks 
+            - "auto" attack mode 
+            - patrol mode 
+            - follow mode 
+            - 
+
+        - Resources
+            - Matter
+                collected from asteroids
+            - Energy
+                provided by generator buildings
+
+        - Use gathered resources to build 
+            - packets of anti-matter 
+            - gathering ships 
+            - fighting ships 
+            - sensor ships
+        - Black hole sends blobs to bring your ships back to itself 
+            - Can use fighter ships to "free" ships and bring them home 
+        - Fog of war 
+        - 
+        - Black hole slowly grows over time 
+            - When it consumes a planet, pauses growth and sends out a bunch of blobs to attack you 
+            - 
+
+        - Gravity?
+        - Planets move in circles around the black hole 
+        
+
+
+    - Send spaceships to bring asteroids and throw them into a black hole
+
+    - Make the black hole larger over time slowly 
+
+    - Lose condition:
+        - Home planet is consumed by the black hole
+
+    - Win condition:
+
+
+    Camera:
+        - Player can pan/zoom the camera at will 
+            - With w/a/s/d and scroll wheel 
+        - 
+
+
+    Black hole:
+        - Grows larger over time 
+        - When it consumes a planet (surface touches another object), does a thing 
+        - 
